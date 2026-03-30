@@ -1,5 +1,8 @@
 # GeoLite2
 
-FoxTerm APP IP 数据库更新库
+FoxTerm IP 默认数据库更新库
 
 每天凌晨 00:00 (UTC 时间) 执行一次更新上游 https://github.com/P3TERX/GeoLite.mmdb
+
+
+APP 默认更新地址：https://github.com/foxterm/GeoLite2/releases/latest/download/GeoLite2-Country.mmdb
